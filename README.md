@@ -17,3 +17,4 @@ Weather Forecast ML model plat acrucial role in enhancing our ability to predict
 * Joblib for deployment
 
 ## Project Link:
+https://github.com/fractalpriyanka/Rain-Prediction-Model/blob/main/RainPrediction.ipynb
