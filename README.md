@@ -1,5 +1,5 @@
 ## Weather Forecast using Machine Learning
-Weather Forecast ML model plat acrucial role in enhancing our ability to predict and respond to weather conditions, leading to pimproved safety, efficiency, and sustainability in varous sectors.
+Weather Forecast ML model play a crucial role in enhancing our ability to predict and respond to weather conditions, leading to pimproved safety, efficiency, and sustainability in varous sectors.
 
 
 ## Ah, weather forecasting!!
